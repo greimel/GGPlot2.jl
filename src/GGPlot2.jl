@@ -4,6 +4,7 @@ __precompile__(false)
 
 using FileIO
 using ImageShow
+using Random
 using Reexport
 @reexport using RCall
 __temp__ = rimport("ggplot2")
