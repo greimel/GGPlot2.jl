@@ -1,0 +1,11 @@
+name = "GGPlot2"
+uuid = "64cce67a-96b8-4340-a1e6-4abbcf82bc80"
+authors = ["Fabian Greimel <fabgrei@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageShow = "4e3cecfd-b093-5904-9786-8bbb286a6a31"
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
